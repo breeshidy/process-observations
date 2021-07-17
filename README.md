@@ -14,8 +14,8 @@
 | Judge   |  Score          |                     | returns @Int Score                    |
 |         |  Participant    |                     | returns @String Name                  |
 |         |                 |   @assignScore      | returns @Object of Score and pacipant |
-| Score   |  judges         |                     | return @arry of judges                |
+| Score   |  judges         |                     | return @array of judges                |
 |         |  low threshold  |                     | return @int of low threshold          |
 |         |  high threshold |                     | return @int of high threshold         |
-|         |                 |  @validateScores    | return @arry of judges                |
-|         |                 |  @standardizeScores | return @arry of judges                |
+|         |                 |  @validateScores    | return @array of judges                |
+|         |                 |  @standardizeScores | return @array of judges                |
